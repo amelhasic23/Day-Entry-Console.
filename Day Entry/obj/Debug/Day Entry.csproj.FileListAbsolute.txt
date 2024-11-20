@@ -1,0 +1,2 @@
+C:\Users\ABC\Desktop\Day Entry\Day Entry\obj\Debug\Day Entry.csproj.AssemblyReference.cache
+C:\Users\ABC\Desktop\Day Entry\Day Entry\obj\Debug\Day Entry.csproj.CoreCompileInputs.cache
